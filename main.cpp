@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  DictionaryCPP
-//
-//  Created by ZQ314159 on 14/7/2563 BE.
-//  Copyright © 2563 ZQ314159. All rights reserved.
-//
-
 #include <iostream>
 #include <fstream>
 #include <sstream>
